@@ -1,1 +1,1 @@
-"Prack" (php-rack) development has moved [here](/prack/php-rack "Prack Repository").
+"Prack" (php-rack) development has moved [here](https://github.com/prack/php-rack "Prack Repository").
